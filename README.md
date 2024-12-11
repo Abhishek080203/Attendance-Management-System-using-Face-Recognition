@@ -31,17 +31,23 @@ FEATURES:
 5) Displays live attendance updates for the day on the main screen in tabular format with Id, name, date and time.
 
 # SCREENSHOTS
-MAIN SCREEN:![image](https://github.com/user-attachments/assets/ff664a25-0b70-40e8-a71b-d22599348f6a)
+MAIN SCREEN:
+![image](https://github.com/user-attachments/assets/ff664a25-0b70-40e8-a71b-d22599348f6a)
 
-NEW REGISTRATION:![image](https://github.com/user-attachments/assets/c08fcf5f-5e86-4213-a4c0-9b86bdd2c98a)
+NEW REGISTRATION:
+![image](https://github.com/user-attachments/assets/c08fcf5f-5e86-4213-a4c0-9b86bdd2c98a)
 ![image](https://github.com/user-attachments/assets/2c33829c-adec-4a6c-9bc0-c11e6b78d544)
 
-TAKING ATTENDANCE:![image](https://github.com/user-attachments/assets/4151fa6d-fa1f-460b-bfe1-3e320e301a36)
+
+TAKING ATTENDANCE:
+![image](https://github.com/user-attachments/assets/4151fa6d-fa1f-460b-bfe1-3e320e301a36)
 
 
-HELP OPTION IN MENUBAR:![image](https://github.com/user-attachments/assets/30ffaec2-e293-4818-bee3-b1f21488119e)
+HELP OPTION IN MENUBAR:
+![image](https://github.com/user-attachments/assets/30ffaec2-e293-4818-bee3-b1f21488119e)
 
-CHANGE PASSWORD OPTION:![image](https://github.com/user-attachments/assets/32e92266-e31e-45db-afe4-b452d0f31a74)
+CHANGE PASSWORD OPTION:
+![image](https://github.com/user-attachments/assets/32e92266-e31e-45db-afe4-b452d0f31a74)
 
 
 
